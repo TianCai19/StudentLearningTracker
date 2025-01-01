@@ -1,0 +1,24 @@
+# <type>(<scope>): <subject>
+# |<----  Using a Maximum Of 50 Characters  ---->|
+
+# Explain why this change is being made
+# |<----   Try To Limit Each Line to a Maximum Of 72 Characters   ---->|
+
+# Provide links or keys to any relevant tickets, articles or other resources
+# Example: Resolves: #123, See also: #456, #789
+
+# --- COMMIT END ---
+# Type can be
+#    feat     (new feature)
+#    fix      (bug fix)
+#    refactor (refactoring production code)
+#    style    (formatting, missing semi colons, etc; no code change)
+#    docs     (changes to documentation)
+#    test     (adding or refactoring tests; no production code change)
+#    chore    (updating grunt tasks etc; no production code change)
+
+# Remember to
+#   - Use the present tense ("add feature" not "added feature")
+#   - Use the imperative mood ("move cursor to..." not "moves cursor to...")
+#   - Limit the first line to 50 characters or less
+#   - Reference issues and pull requests liberally
